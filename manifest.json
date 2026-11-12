@@ -1,10 +1,9 @@
-json
-   {
-     "version": "1.0.0",
-     "mandatory": false,
-     "url": "https://github.com/rixaclip-releases/rixaclip-releases/releases/download/v1.0.0/RixaClip-1.0.0-x64.exe",
-     "sha256": "",
-     "notes": "Initial release",
-     "size": 0,
-     "publishedAt": "2026-11-01T00:00:00Z"
-   }
+{
+  "version": "1.1.0",
+  "mandatory": true,
+  "url": "PASTE-THE-ASSET-URL-HERE",
+  "sha256": "PASTE-THE-HASH-HERE",
+  "notes": "Fixes recordings silently failing to save. This one matters — install it.",
+  "size": 0,
+  "publishedAt": "2026-11-12T00:00:00Z"
+}
